@@ -1,3 +1,3 @@
-const App = () => <h1>App</h1>
+const App = () => <h1 className="underline">App</h1>
 
 export default App
